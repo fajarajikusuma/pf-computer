@@ -275,7 +275,7 @@ h1 {
 
 .bottom {
     display: grid;
-    grid-template-columns: repeat(auto-fit, 27rem);
+    grid-template-columns: repeat(auto-fit, 26rem);
     justify-content: center;
     gap: 1rem;
     justify-items: center;
