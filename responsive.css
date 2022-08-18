@@ -82,7 +82,7 @@
         flex-direction: column-reverse;
         width: 100%;
         height: auto;
-        padding: 0 0px;
+        padding: 0px;
     }
 
     .left {
@@ -118,6 +118,7 @@
     .right img {
         width: 100%;
         height: auto;
+        margin: 30px 0;
     }
 
     .get-started {
@@ -298,7 +299,8 @@
 
     .get-started {
         display: block;
-        padding-top: 20px;
+        /* padding-top: 20px; */
+        margin-bottom: 30px;
     }
 
     .button-content {
@@ -320,6 +322,7 @@
     .right img {
         width: 80%;
         height: auto;
+        margin: 30px 0;
     }
 
     .navbar {
