@@ -545,11 +545,11 @@ footer p a {
 }
 
 .d-none {
-    display: none;
+    display: block;
 }
 
 .alert-success {
-    width: 45vw;
+    width: 40vw;
     background-color: aqua;
     border: 2px solid aqua;
     border-radius: 20px;
