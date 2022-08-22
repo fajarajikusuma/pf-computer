@@ -246,6 +246,7 @@
     .leftside img {
         width: 100%;
         height: auto;
+        margin-bottom: 20px;
     }
 
     .rightside {
@@ -490,6 +491,7 @@
     .leftside img {
         width: 100%;
         height: auto;
+        margin-bottom: 20px;
     }
 
     .rightside {
@@ -591,6 +593,14 @@
         font-size: 1rem;
         font-weight: bold;
         color: black;
+    }
+
+    .leftside {
+        width: 50%;
+    }
+
+    .rightside {
+        width: 50%;
     }
 
 }
