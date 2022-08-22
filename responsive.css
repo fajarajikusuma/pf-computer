@@ -269,6 +269,9 @@
         width: 80vw;
     }
 
+    .d-none {
+        display: none;
+    }
 
 }
 
@@ -461,6 +464,10 @@
         color: #222;
     }
 
+    .d-none {
+        display: none;
+    }
+
     .about {
         display: flex;
         justify-content: center;
@@ -513,6 +520,10 @@
 @media only screen and (min-width: 781px) and (max-width: 911px) {
     .navbar {
         padding: 0px;
+    }
+
+    .d-none {
+        display: none;
     }
 
     .row {
@@ -592,6 +603,10 @@
     .get-started {
         display: block;
         margin-bottom: 30px;
+    }
+
+    .d-none {
+        display: none;
     }
 
     .row {
