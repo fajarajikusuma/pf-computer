@@ -603,6 +603,10 @@
         width: 50%;
     }
 
+    .row {
+        height: 50vh;
+    }
+
 }
 
 @media only screen and (min-width: 912px) and (max-width: 1630px) {
@@ -719,5 +723,7 @@
         justify-content: center;
     }
 
-
+    .row {
+        height: 70vh;
+    }
 }
